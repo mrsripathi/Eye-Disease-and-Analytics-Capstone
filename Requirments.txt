@@ -1,0 +1,9 @@
+```txt
+torch
+torchvision
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
